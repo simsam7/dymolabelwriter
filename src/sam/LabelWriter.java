@@ -27,6 +27,9 @@ import javax.print.PrintService;
 /**
  *
  * @author Sam
+ * I got the basis for this library here http://fiehnlab.ucdavis.edu/staff/scholz/dev/java/labelwriter but that link no longer exists 
+ * It can be used as a stand-alone JAR you add to your code, all you need to do to use it is something like this:
+ * labelwriter.printLabel("test0", "test1", "test2", "test3", "test4", "test5", "test6", "test7", "test8", "test9", "test10", "test11");
  */
 public class LabelWriter {
 
