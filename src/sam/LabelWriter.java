@@ -172,7 +172,7 @@ public class LabelWriter {
         }
 
 
-        System.exit(0);
+//        System.exit(0);
 
     }
 
